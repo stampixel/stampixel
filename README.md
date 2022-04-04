@@ -10,8 +10,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="JS" title="JavaScript" width="40px" src="https://img.icons8.com/color/80/000000/javascript--v1.png">|<img alt="HTML" title="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png">|<img alt="CSS" title="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png">
+|--|--|--|--|--|
+
 
 **Tools**
 
