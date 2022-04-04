@@ -16,8 +16,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools**
 
-<img title="Garuda Linux" alt="Garuda Linux" width="40px" src="https://forum.garudalinux.org/uploads/default/original/2X/e/eaac308569030026267f542d978aef8d88f049ee.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/80/000000/visual-studio-code-2019.png">|<img title="PyCharm" alt="PyCharm" width="40px" src="https://img.icons8.com/color/80/000000/pycharm.png">|<img title="Eclipse" alt="Eclipse" width="40px" src="https://img.icons8.com/officel/80/000000/java-eclipse.png">|<img title="Git" alt="Git" width="40px" src="https://img.icons8.com/color/80/000000/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://img.icons8.com/fluent/80/000000/github.png">
-|--|--|--|--|--|--|
+<img title="Garuda Linux" alt="Garuda Linux" width="40px" src="https://forum.garudalinux.org/uploads/default/original/2X/e/eaac308569030026267f542d978aef8d88f049ee.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/80/000000/visual-studio-code-2019.png">|<img title="PyCharm" alt="PyCharm" width="40px" src="https://img.icons8.com/color/80/000000/pycharm.png">|<img title="Eclipse" alt="Eclipse" width="40px" src="https://img.icons8.com/officel/80/000000/java-eclipse.png">|<img title="Git" alt="Git" width="40px" src="https://img.icons8.com/color/80/000000/git.png">|<img title="GitHub" alt="GitHub" width="40px" src="https://img.icons8.com/fluent/80/000000/github.png">|<img title="AWS" alt="AWS" width="40px" src="https://img.icons8.com/color/80/000000/amazon-web-services.png">|<img title="NGINX" alt="NGINX" width="40px" src="https://img.icons8.com/color/80/000000/nginx.png">
+|--|--|--|--|--|--|--|--|
 
 ## Contact Me :telephone_receiver:
 
