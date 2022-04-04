@@ -2,7 +2,7 @@
 
 Hello, stampixel here. I am a developer based in Canada, my main language is Python, but I also do JavaScript, Java, and HTML&CSS. I use Garuda Linux as my main operating system, running Sway WM.
 
-<img src="http://www.hackthebox.eu/badge/image/613575" alt="Hack The Box">
+<!-- <img src="http://www.hackthebox.eu/badge/image/613575" alt="Hack The Box"> -->
 
 ## Skill Set :muscle:
 
