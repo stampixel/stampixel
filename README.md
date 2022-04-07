@@ -1,4 +1,4 @@
-# Here because of YRHacks? Check out some of my closed source projects!
+# Here because of YRHacks?
 
 https://ryptic.ga - Link-tree style website, able to register and create your own profile. Access your profile like this; https://ryptic.ga/@stampixel. Hosted on my Raspberry Pi (yes, I have experience with deploying webapps through Cloudflare using NGINX).
 
