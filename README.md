@@ -6,7 +6,7 @@ https://tankated.ga - Tank detection website made using AWS Lambda, YOLOv4 detec
 
 https://chatix.ga - Distractionless chatroom created using Socket.io and express server. Havn't set up SSL certificate yet, so the website is down. You can check out the source code on GitHub.
 
-Some other projects I've made before include: Discord bots, Instagram automation bot, fake tank image generator using GAN, games using PyArcade, etc. Oh yeah, I also do DMOJ questions on my spare time.
+Some other projects I've made before include: Discord bots, Instagram automation bot, fake tank image generator with GAN using tensowflow, games using PyArcade, etc. Oh yeah, I also do DMOJ questions on my spare time.
 
 # Hi everyone :wave:
 
