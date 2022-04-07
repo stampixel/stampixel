@@ -1,3 +1,13 @@
+# Here because of YRHacks? Check out some of my closed source projects!
+
+https://ryptic.ga - Link-tree style website, able to register and create your own profile. Access your profile like this; https://ryptic.ga/@stampixel. Hosted on my Raspberry Pi (yes, I have experience with deploying webapps through Cloudflare using NGINX).
+
+https://tankated.ga - Tank detection website made using AWS Lambda, YOLOv4 detection algorithm, and some Python.
+
+https://chatix.ga - Distractionless chatroom created using Socket.io and express server. Havn't set up SSL certificate yet, so the website is down. You can check out the source code on GitHub.
+
+Some other projects I've made before include: Discord bots, Instagram automation bot, fake tank image generator using GAN, games using PyArcade, etc. Oh yeah, I also do DMOJ questions on my spare time.
+
 # Hi everyone :wave:
 
 Hello, stampixel here. I am a developer based in Canada, my main language is Python, but I also do JavaScript, Java, and HTML&CSS. I use Garuda Linux as my main operating system, running Sway WM.
